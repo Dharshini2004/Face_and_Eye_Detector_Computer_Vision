@@ -9,13 +9,8 @@ This project implements **real-time face and eye detection** using **OpenCV** an
 ✅ Uses **Haarcascade classifiers** for detection  
 ✅ Easy to use & extend  
 
-## Installation  
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/yourusername/Face_Eye_Detection.git
-cd Face_Eye_Detection
-```
 #Example output
+
 ![image](https://github.com/user-attachments/assets/e79091a9-d45c-427c-83d5-16e89eecf879)
 
 ##Future Improvements
